@@ -43,9 +43,8 @@
 | عنوان پروژه | توضیح | لینک |
 |-------------|--------|------|
 | Portfolio Website | وب‌سایت شخصی برای معرفی نمونه‌کار | [🔗 مشاهده](https://github.com/Abbas-2483/portfolio) |
-| Landing Page | طراحی صفحه فرود مدرن با HTML/CSS | [🔗 مشاهده](https://github.com/Abbas-2483/landing-page) |
 
-> *(در صورت ساختن پروژه‌های دیگر، این جدول را به‌روزرسانی کنید)*
+
 
 ---
 
@@ -56,9 +55,4 @@
   <a href="https://instagram.com/abbas._.83b"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
----
-
-<p align="center">
-  ساخته شده با ❤️ توسط عباس
-</p>
 
