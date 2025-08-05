@@ -42,7 +42,7 @@
 
 | عنوان پروژه | توضیح | لینک |
 |-------------|--------|------|
-| Portfolio Website | وب‌سایت شخصی برای معرفی نمونه‌کار | [🔗 مشاهده](https://github.com/Abbas-2483/portfolio) |
+| Portfolio Website | وب‌سایت شخصی برای معرفی نمونه‌کار | [🔗 مشاهده](https://github.com/Abbas-2483/My-Portfolio) |
 
 
 
@@ -50,9 +50,12 @@
 
 ## 📬 راه‌های ارتباط با من
 
-<p align="center">
-  <a href="mailto:abbas83boueshagh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/abbas._.83b"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<p>
+## 📬 ارتباط با من
+
+- 📧 ایمیل: abbas83boueshagh@gmail.com  
+- 📸 اینستاگرام: [abbas._.83b](https://instagram.com/abbas._.83b)
+
 </p>
 
 
